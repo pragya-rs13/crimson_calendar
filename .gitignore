@@ -5,6 +5,7 @@ __pycache__/
 
 # Ignore virtual environment
 ccvenv/
+frontend/
 
 # Ignore test directory
 test/
